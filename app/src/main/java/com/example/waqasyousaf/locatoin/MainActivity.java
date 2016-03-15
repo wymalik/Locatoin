@@ -187,7 +187,7 @@ public class MainActivity extends AppCompatActivity {
         i++;
 
         int j=0;
-            j=5;
+            j=6;
 
 
     }
